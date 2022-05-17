@@ -50,26 +50,6 @@
 
 
 
-### Polygon Creator
-
-![](http://i.giphy.com/3o6UAZWqQBkOzs8HE4.gif) ![](http://i.giphy.com/xT77XVBRErNZl3zyWQ.gif)
-
-
-
-### Other Overlays
-
-
-
-![](http://i.giphy.com/xT77XZCH8JpEhzVcNG.gif) ![](http://i.giphy.com/xT77XZyA0aYeOX5jsA.gif)
-
-
-
-### Gradient Polylines (iOS MapKit only)
-
-
-
-![](https://i.imgur.com/P7UeqAm.png?1)
-
 
 
 ### Default Markers
