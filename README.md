@@ -1,7 +1,6 @@
 # Maps App for Android Club
 Name: Aswal krishna P
 
-React Native Map components for iOS + Android
 
 
 
