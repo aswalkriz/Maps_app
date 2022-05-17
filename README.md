@@ -2,6 +2,8 @@
 ### Name: Aswal krishna P
 ### Reg No: 20MIS1096
 
+# Article
+It is a web platform and a consumer application offered. It offers satellite imagery, aerial photography, street maps, real-time traffic conditions, and route planning for traveling by foot, car, bike, and public transportation. The app consists of all features that are available in google maps and also can change its style and the region. It is a user friendly app unless google maps this app can be used by people of any age.  ffkkf 
 
 
 
