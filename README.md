@@ -3,11 +3,13 @@
 ### Reg No: 20MIS1096
 
 # Article
-It is a web platform and a consumer application offered. It offers satellite imagery, aerial photography, street maps, real-time traffic conditions, and route planning for traveling by foot, car, bike, and public transportation. The app consists of all features that are available in google maps and also can change its style and the region. It is a user friendly app unless google maps this app can be used by people of any age.  
+It is a web mapping platform and a consumer application offered. It offers satellite imagery, aerial photography, street maps, real-time traffic conditions, and route planning for traveling by foot, car, bike, and public transportation. The app consists of all features that are available in google maps and also can change its style and the region. It is a user friendly app unless google maps this app can be used by people of any age.  
   
   The developmet of the app began on March and the structure of the app was finished 1 month after the developement started and the entire app was finished on May. Throughout the development journey I had both good and bad experience. I cherished the good moments and I tried to overcome the bad moments by working hard on it. And at last I coul able to finish the project without any fault.  
     
-I made this app with the knowledge that I gained from my club and seniors and also from W3schools and Youtube. When I started to build the app I had only a little knowledge thet I got from listening to the classes that my club has conducted before coming to the college and I tried myself to get more knowledge as possible so I could make myself better. From the first class itself I noted that many students has already know about these kind of stuff that I'm hearig for the first time. At first it made me sad but then I tried my best and I started to learn with YouTube and hacker Rank. At the start, I was bad at solving problems but after a few tries and coding camps, I felt I am good at programming. Then I thought of creating projects using those learned programming languages. Then I started to make a tic tac toe game. During that project, I struggled a lot but I finished the project swith help of some of my seniors and from different coding sites. And some time my college was going to reopen so I had to make arrangements for my trip. After reaching college I made friends with guys who were also into coding and they were also in the same club so it was easy for us to interract and do the assignments that were given in the club. And this project I choose to build myself because I can change anything in the app without discussing with others it gives me the freedom to add anything in the app that I want to add. 
+I made this app with the knowledge that I gained from my club and seniors and also from W3schools and Youtube. When I started to build the app I had only a little knowledge thet I got from listening to the classes that my club has conducted before coming to the college and I tried myself to get more knowledge as possible so I could make myself better. From the first class itself I noted that many students in my class has already know about these kind of coding stuff that I'm hearing for the first time. At first it made me sad but then I tried my best and I started to learn with YouTube and hacker Rank. At the start, I was bad at solving problems but after a few tries and coding camps, I felt I am good at programming. Then I thought of creating projects using those learned programming languages. Then I started to make a tic tac toe game. During that project, I struggled a lot but I finished the project swith help of some of my seniors and from different coding sites. And some time my college was going to reopen so I had to make arrangements for my trip. After reaching college I made friends with guys who were also into coding and they were also in the same club so it was easy for us to interract and do the assignments that were given in the club. And this project I choose to build myself because I can change anything in the app without discussing with others it gives me the freedom to add anything in the app that I want to add.  
+  
+ After the completion of the project I was able to succesfully run my application without any error and the overall experience of building the app was good I was able to gain more knowledge about React and its functions. And also after this I will be learning new languages and try to practice more and more on app development. I can now confidently say that I could build more apps with the React. 
 
 
 
@@ -44,10 +46,7 @@ I made this app with the knowledge that I gained from my club and seniors and al
 ![](http://i.giphy.com/xT77XMw9IwS6QAv0nC.gif) ![](http://i.giphy.com/3o6UBdGQdM1GmVoIdq.gif)
 
 
-
-![](http://i.giphy.com/xTcnTelp1OwGPu1Wh2.gif) ![](http://i.giphy.com/xTcnT6WVpwlCiQnFW8.gif)
-
-
+![](http://i.giphy.com/xTcnT6WVpwlCiQnFW8.gif) ![](http://i.giphy.com/xTcnTelp1OwGPu1Wh2.gif) 
 
 
 
@@ -64,6 +63,10 @@ I made this app with the knowledge that I gained from my club and seniors and al
 
 ![](http://i.giphy.com/xT77XNePGnMIIDpbnq.gif) ![](http://i.giphy.com/xT77YdU0HXryvoRqaQ.gif)
 
+### Draggable Markers
+
+
+![](http://i.giphy.com/l2JImnZxdv1WbpQfC.gif) ![](http://i.giphy.com/l2JIhv4Jx6Ugx1EGI.gif)
 
 
 ### Image-based Markers
@@ -72,21 +75,10 @@ I made this app with the knowledge that I gained from my club and seniors and al
 ![](http://i.imgur.com/mzrOjTR.png)
 
 
-
-### Draggable Markers
-
-
-![](http://i.giphy.com/l2JImnZxdv1WbpQfC.gif) ![](http://i.giphy.com/l2JIhv4Jx6Ugx1EGI.gif)
-
 ### Lite Mode ( Android )
 
 
 ![](http://i.giphy.com/qZ2lAf18s89na.gif)
-
-### On Poi Click (Google Maps Only)
-
-
-![](https://media.giphy.com/media/3480VsCKnHr31uCLU3/giphy.gif)
 
 
 
@@ -100,3 +92,7 @@ I made this app with the knowledge that I gained from my club and seniors and al
 
 ![](https://cloud.githubusercontent.com/assets/1627824/18609960/da5d9e06-7cdc-11e6-811e-34e255093df9.gif)
 
+### On Poi Click (Google Maps Only)
+
+
+![](https://media.giphy.com/media/3480VsCKnHr31uCLU3/giphy.gif)
