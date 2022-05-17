@@ -1,6 +1,6 @@
-## Maps App for Android Club
-# Name: Aswal krishna P
-# Reg No: 20MIS1096
+# Maps App for Android Club
+### Name: Aswal krishna P
+### Reg No: 20MIS1096
 
 
 
