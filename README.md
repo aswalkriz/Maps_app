@@ -8,26 +8,6 @@ This project is being maintained by a small group of people, and any help with i
 
 
 
-## Component API
-
-[`<MapView />` Component API](docs/mapview.md)
-
-[`<Marker />` Component API](docs/marker.md)
-
-[`<Callout />` Component API](docs/callout.md)
-
-[`<Polygon />` Component API](docs/polygon.md)
-
-[`<Polyline />` Component API](docs/polyline.md)
-
-[`<Circle />` Component API](docs/circle.md)
-
-[`<Overlay />` Component API](docs/overlay.md)
-
-[`<Heatmap />` Component API](docs/heatmap.md)
-
-[`<Geojson />` Component API](docs/geojson.md)
-
 
 
 
