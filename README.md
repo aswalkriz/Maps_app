@@ -32,12 +32,6 @@
 
 
 
-### React Views as Markers
-
-![](http://i.giphy.com/3o6UBcsCLoLQtksJxe.gif) ![](http://i.giphy.com/3o6UB1qGEM9jYni3KM.gif)
-
-
-
 ### Using the MapView with the Animated API
 
 
