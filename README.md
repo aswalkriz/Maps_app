@@ -1,12 +1,7 @@
-# react-native-maps [![npm version](https://img.shields.io/npm/v/react-native-maps.svg?style=flat)](https://www.npmjs.com/package/react-native-maps)
+# Maps App for Android Club
+Name: Aswal krishna P
 
 React Native Map components for iOS + Android
-
-
-## Contributing
-This project is being maintained by a small group of people, and any help with issues and pull requests are always appreciated. If you are able and willing to contribute, please read the [guidelines](./CONTRIBUTING.md).
-
-
 
 
 
