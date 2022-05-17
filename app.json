@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Maps_app",
+    "slug": "Maps_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
